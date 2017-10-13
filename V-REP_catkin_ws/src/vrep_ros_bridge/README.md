@@ -1,4 +1,4 @@
-Project taken from https://github.com/lagadic/vrep_ros_bridge with the goal of further personal modification. In case you got to my repo when trying to start with VREP-ROS simulation, I would suggest you to use original project than this personalize version.
+Project taken from https://github.com/lagadic/vrep_ros_bridge with the goal of further personal modification. In case you got to my repo when trying to start with VREP-ROS simulation, I would suggest you to use original project than this personalized version.
 
 # V-Rep ROS Bridge
 
