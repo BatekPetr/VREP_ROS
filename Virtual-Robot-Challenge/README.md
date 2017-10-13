@@ -1,3 +1,6 @@
+Project taken from https://github.com/Nurgak/Virtual-Robot-Challenge with the goal of further personal modification. In case you got to my repo when trying to start with VREP-ROS simulation, I would suggest you to use original project than this personalize version.
+
+
 # Virtual Robot Challenge
 
 ![Image of the virtual robot in V-REP](Media/robot.png)
