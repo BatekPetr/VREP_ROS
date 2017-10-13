@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+   <!-- Virtual representation in RVIZ, with the configuration file -->
+   <!-- Only to test what opens RVIZ window for mapping in the original launch file mapping.launch -->
+    <node pkg="rviz" type="rviz" name="rviz" output="screen" args="-d $(find vrc)/rviz/settings.rviz" />
+</launch>

@@ -1,0 +1,11 @@
+ROS and VREP tutorial
+
+https://github.com/Nurgak/Virtual-Robot-Challenge
+
+	ROS msgs used in project:
+		http://docs.ros.org/jade/api/sensor_msgs/html/msg/JointState.html
+		http://docs.ros.org/api/geometry_msgs/html/msg/Twist.html
+
+VREP_ROS_BRIDGE
+https://github.com/lagadic/vrep_ros_bridge
+http://wiki.ros.org/vrep_ros_bridge#Installation_test
